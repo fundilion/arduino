@@ -1,5 +1,5 @@
 #include <AFMotor.h>
-
+//Some comment
 AF_Stepper motor(200,1);
 
 char captura;
